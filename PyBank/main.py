@@ -39,5 +39,3 @@ print(f"Greatest Increase in Profits: {change_months[max_index]} (${change_list[
 # greatest increase in profits (date and amount) over entire period
 print(f"Greatest Decrease in Profits: {change_months[min_index]} (${change_list[min_index]})")
 
-with open(os.path.join("output-file.txt"), "w") as textfile:
-    textfile.write(main.py)
