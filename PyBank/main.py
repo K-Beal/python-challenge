@@ -2,6 +2,7 @@ import os
 import csv
 
 csvpath = os.path.join('.','Resources', 'budget_data.csv')
+#creating empty lists and setting values
 months = []
 change_list = []
 change_months = []
@@ -39,7 +40,7 @@ print(f"Greatest Increase in Profits: {change_months[max_index]} (${change_list[
 # greatest increase in profits (date and amount) over entire period
 print(f"Greatest Decrease in Profits: {change_months[min_index]} (${change_list[min_index]})")
 
-
+#converting code to text file
 with open(os.path.join("output-file.txt"), "w") as textfile:
     textfile.write(f"Total Months: {len(months)}\n")
     textfile.write(f"Total: ${total}\n")
