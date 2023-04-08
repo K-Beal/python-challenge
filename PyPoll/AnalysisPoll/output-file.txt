@@ -2,9 +2,9 @@ Election Results
 ---------------------
 Total Votes: 369711
 ---------------------
-Vote Percentage: (Charles Casper Stockham, 23.05%, <built-in method values of dict object at 0x000002761265DAC0>
-Vote Percentage: (Diana DeGette, 73.81%, <built-in method values of dict object at 0x000002761265DAC0>
-Vote Percentage: (Raymon Anthony Doane, 3.14%, <built-in method values of dict object at 0x000002761265DAC0>
+Vote Percentage: Charles Casper Stockham, 23.049%, (85213)
+Vote Percentage: Diana DeGette, 73.812%, (272892)
+Vote Percentage: Raymon Anthony Doane, 3.139%, (11606)
 ---------------------
 Winner: Diana DeGette
 ---------------------
